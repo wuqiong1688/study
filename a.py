@@ -1,1 +1,1 @@
-git@github.com:wuqiong1688/study.git
+print("hello world")
